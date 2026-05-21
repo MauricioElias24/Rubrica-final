@@ -32,6 +32,7 @@ Random Forest Classifier (100 trees) trained on 70% of the data, tested on 30%.
 
 ## Team Members
 Mauricio Bustillo 
+
 Iris Giraldo
 
 ## Video Presentation
