@@ -194,5 +194,5 @@ with tab2:
     st.plotly_chart(fig_matrix, use_container_width=True)
 
 st.markdown("---")
-st.markdown("**Integrantes:**Mauricio Bustillo, Iris Giraldo**")
+st.markdown("**Integrantes: Mauricio Bustillo, Iris Giraldo**")
 st.markdown("**Universidad de la Costa - Mineria de Datos**")
