@@ -90,6 +90,7 @@ Cree un dashboard interactivo con Streamlit que incluye:
 ## Integrantes
 
 Mauricio Bustillo 
+
 Iris Giraldo
 
 ## Enlace al video
