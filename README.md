@@ -31,7 +31,8 @@ Iris dataset (150 samples, 4 features, 3 species):
 Random Forest Classifier (100 trees) trained on 70% of the data, tested on 30%.
 
 ## Team Members
-[Add your names here]
+Mauricio Bustillo 
+Iris Giraldo
 
 ## Video Presentation
-[Add video link here]
+
